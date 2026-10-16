@@ -1,0 +1,114 @@
+[
+  {
+    "id": "shokpar_project",
+    "url": "https://www.aiib.org/en/projects/details/2023/approved/Kazakhstan-Shokpar-100MW-Wind-Power-Project.html",
+    "file": "shokpar_project.html",
+    "sha256": "140421d73b1015a5d6fa2356d514c652ec11971da903a2236efbb8fddceff723",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "shokpar_registry",
+    "url": "https://www.ebrd.com/home/what-we-do/projects/independent-project-accountability-mechanism/case-registry/KAZREF-II-Shokpar-Wind.html",
+    "file": "shokpar_registry.html",
+    "sha256": "2d61a1033acb4d7238efd7ba966ac5a6184df4f87f95168c01a014262e68d086",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "dushanbe_summary_2016",
+    "url": "https://www.aiib.org/en/projects/approved/2016/_download/tajikistan/summary/approved_project_summary_tajikistan_border_road_improvement.pdf",
+    "file": "dushanbe_summary_2016.pdf",
+    "sha256": "bf017001114e79df796dfc6103ae50462cf7f791dcd998bbabf712808ea276ea",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "almaty_project",
+    "url": "https://www.aiib.org/en/projects/details/2025/approved/kazakhstan-almaty-railway-bypass-project.html",
+    "file": "almaty_project.html",
+    "sha256": "706eebe07562b8573c526622e9165b3fac80f96e0940ed959155794dcfbc2d3d",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "uzbekistan_cpbf_project",
+    "url": "https://www.aiib.org/en/projects/details/2025/approved/uzbekistan-green-and-resilient-market-economy-program.html",
+    "file": "uzbekistan_cpbf_project.html",
+    "sha256": "6f04847367126620c9d2f9dfb2e4149adf5c7666e88923bbe6f6f436a6f18a54",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "zhanatas_project",
+    "url": "https://www.aiib.org/en/projects/details/2019/approved/Kazakhstan-Zhanatas-100-MW-Wind-Power-Plant.html",
+    "file": "zhanatas_project.html",
+    "sha256": "291d0e387b1c28d48832a24d4f81b1f2f39bc8a5c21feddd7c3480b9d91bc639",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "ipam_collaboration",
+    "url": "https://www.ebrd.com/home/what-we-do/projects/independent-project-accountability-mechanism/accountability-mechanisms-collaboration.html",
+    "file": "ipam_collaboration.html",
+    "sha256": "48618b0a4bf8e49719c57d4a33f7987dd4eec3eb3314d940002786e8191e1dcf",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "call",
+    "url": "https://www.humanrights.fau.de/2026/10/01/call-for-papers-green-corridors-contested-ground-infrastructure-power-and-sustainability-in-central-asia-and-mongolia/",
+    "file": "call.html",
+    "sha256": "78ac4c83a9af8caeaebfcff5edd8b943664e6ffba152cb1538eda1e72a439248",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "aiib_cofinance_2024",
+    "url": "https://www.aiib.org/en/about-aiib/who-we-are/project-affected-peoples-mechanism/_common/_download/Updated_Approved-Co-Financed-Projects-End-2024_10.01.2025.pdf",
+    "file": "aiib_cofinance_2024.pdf",
+    "sha256": "3c083f3d84c8669c6d813cbe397a2bf020f7fb299ea49e80c9e280f6d1f74f19",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "aiib_cofinance_2025",
+    "url": "https://www.aiib.org/en/about-aiib/who-we-are/project-affected-peoples-mechanism/_common/_download/Approved-Co-Financed-Projects_End-2025_11_03_2026.pdf",
+    "file": "aiib_cofinance_2025.pdf",
+    "sha256": "80620bd77d80c0205cc4ff854d26bb420b7bfa515bb9c657323091ecc433b249",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "ppm_policy_2026",
+    "url": "https://www.aiib.org/en/policies-strategies/_download/project-affected/PPM-policy.pdf",
+    "file": "ppm_policy_2026.pdf",
+    "sha256": "87afb95777382d16744f507b27deb70380baac7820082d36a9a11d82a0da1555",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "ppm_rules_2026",
+    "url": "https://www.aiib.org/en/policies-strategies/_download/project-affected/AIIB-RofP-of-the-PPM-2026_For-Dissemination-and-Disclosure_24-12-2025.pdf",
+    "file": "ppm_rules_2026.pdf",
+    "sha256": "bf7d77e5237063a81055595402cfa63b66ca69b628dafa7e0a5cd6afb0ad9fe2",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "ppm_policy_2018",
+    "url": "https://www.aiib.org/en/policies-strategies/_download/project-affected/PPM-policy-2018.pdf",
+    "file": "ppm_policy_2018.pdf",
+    "sha256": "942bc2f497e8854e1a6ae3f3e3b71844eb1c867b0dfe1a5107d13c9a66267164",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "shokpar_assessment_2025",
+    "url": "https://www.ebrd.com/content/dam/ebrd_dxp/assets/pdfs/ipam/ipam-case-registry/2024/2024-05/202405-assessment-report-eng.pdf",
+    "file": "shokpar_assessment_2025.pdf",
+    "sha256": "7ea4cb0bac7afe096243d332f8e6b1afd8b6fa47b95dbee49069dee64442e80a",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "shokpar_closing_2026",
+    "url": "https://www.ebrd.com/content/dam/ebrd_dxp/assets/pdfs/ipam/ipam-case-registry/2024/2024-05/202405%20Closing%20Report%20Problem%20Solving.pdf",
+    "file": "shokpar_closing_2026.pdf",
+    "sha256": "3f887676892912a5cf86c032edb5f17133b9f57ea3899e495e3ad8ad0bfdceb5",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "roadblocks_2023",
+    "url": "https://www.genderaction.org/pdf/Roadblocks-to-AIIB-accountability-Recourse-Gender-Action-et-al.pdf",
+    "file": "roadblocks_2023.pdf",
+    "sha256": "85f5d2a4bdb385e30936dba2abf278223efbc4a5e68769ff97ecaf77b0d57773",
+    "retrieved": "2026-10-16"
+  }
+]

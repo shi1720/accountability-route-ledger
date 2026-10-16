@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the manuscript and original institutional sources when using this artifact."
+title: "Borrowed Standards, Delegated Review: Complaint Routing and Evidentiary Participation in Central Asia's Infrastructure Transition"
+authors:
+  - family-names: Gupta
+    given-names: Shivam
+    affiliation: Independent Researcher, India
+version: 1.0.0
+date-released: 2026-10-16
+repository-code: "https://github.com/shi1720/accountability-route-ledger"
+license: MIT

@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+sources/
+paper/*.aux
+paper/*.bbl
+paper/*.blg
+paper/*.log
+paper/*.out
+.DS_Store

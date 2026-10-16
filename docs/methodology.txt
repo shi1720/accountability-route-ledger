@@ -1,0 +1,82 @@
+STUDY RECORD
+Date: 16 October 2026
+Author: Shivam Gupta
+
+Design
+Exploratory public-document research: a census of two bounded institutional
+registers, a descriptive regional subset, and a purposively selected process
+trace. No preregistration, independent coding panel, causal identification,
+or population representativeness is claimed.
+
+Primary quantitative source
+AIIB Co-Financed Projects, End-2025, 152 numbered financing entries. The
+download filename bears 11 March 2026. Comparator: updated End-2024 version,
+136 numbered entries, filename dated 10 January 2025. See sources.json for
+the exact bytes' SHA-256 values.
+
+Country rule
+Kazakhstan, Kyrgyz Republic, Tajikistan, Turkmenistan, Uzbekistan, Mongolia.
+No selective inclusion based on technology, complaint, or designation.
+Azerbaijan is outside this geographical definition.
+
+Core fields
+Published applicable policy and applicable IAM are separate fields. Neither
+is inferred from the lead institution, reference institution, sponsor
+nationality, or a generic policy label. The IAM field is AIIB's designation;
+it is not a census of every possible remedial route.
+
+Checks
+PyMuPDF table geometry supplies cells. Poppler independently checks amount,
+approval date, reference institution, policy, and IAM for all 288 row
+observations. Regional member/amount/policy/IAM fields are additionally
+checked against rendered source pages. The latter is within-study checking,
+not independent inter-rater validation.
+
+Snapshot identity
+The unique tuple is (member, exact full title, approval date, listed
+financing). Member/date/amount alone collides for two pairs of operations.
+All 136 earlier entries match. Policy and IAM labels remain unchanged.
+Differences in other source fields are not claimed absent.
+
+Alternative denominators
+1. All regional entries.
+2. Exclude sectors beginning CRF-.
+3. Published Energy or Transport sector labels.
+4. Same labels excluding row 151, the Uzbekistan climate policy operation.
+5. Five generation/rehabilitation entries (not renewables-only): rows
+   61, 66, 67, 96, and 146.
+
+The register labels row 151 Energy while the current project page labels
+it Multi-sector. Both are retained as source-specific observations. This
+is why a sector label is not called a verified physical-project boundary.
+
+Amounts and inference
+Decimal arithmetic uses the register's nominal USD-million amounts.
+Weights are neither outstanding exposure nor risk/harm/compensation.
+The census is descriptive; no standard errors or p-values are reported.
+
+Policy-only minimum
+Sum over policy groups of (group count minus largest IAM count). The
+independent oracle enumerates all choices of an observed mechanism per
+policy label. An unobserved label cannot improve either nonnegative count
+or amount-weighted error. The calculation is elementary and not claimed
+as a new algorithm. It concerns abbreviated published labels.
+
+Process trace
+IPAM case 2024/05. Sources: AIIB project description, IPAM assessment and
+closure reports, and live case registry retrieved on 16 October 2026.
+Allegations, responses, administrative events, and findings are separate.
+The four underlying monitoring reports are not part of the inspected
+corpus; their quality or ecological conclusions are not independently
+adjudicated. Month-only dates remain closed date intervals.
+
+Temporal legal interpretation
+The 2026 PPM policy and rules apply to submissions made from 1 January
+2026. The Shokpar submission dates to May 2024. No retroactive breach of
+the revised policy is asserted. Policy section 11.1's broad coordination
+and outcome-reporting provision is kept separate from section 11.2's
+additional management report following a noncompliance finding.
+
+Observation cutoff and artifact status
+16 October 2026. A future compliance result could change case status.
+The manuscript is a research submission, not a peer-reviewed publication.

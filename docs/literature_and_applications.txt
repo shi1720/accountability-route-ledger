@@ -1,0 +1,86 @@
+POSITIONING, SEARCH BOUNDARIES, AND APPLICATIONS
+16 October 2026
+
+Search approach
+Targeted searches combined AIIB, cofinancing, safeguards, independent
+accountability mechanisms, Central Asia, Mongolia, Shokpar, and mutual
+reliance; additional searches used Chinese terms for AIIB/joint finance/
+accountability and Russian terms for Shokpar/complaints/EBRD. Citation
+following connected institutional sources and scholarly literature.
+This is a purposive literature review, not an exhaustive systematic review.
+No assertion that all languages, unpublished work, or all databases were
+searched is made.
+
+Closest prior work and implications
+
+Geary, Goyal, Amoako and Inclusive Development International (2023),
+Roadblocks to Accountability: a direct predecessor. It already analyzes
+portfolio eligibility, cofinancing exclusions, policy/IAM mismatches,
+instrument differences, and problems after referral. Those ideas cannot
+be claimed as newly discovered here. The present work adds an explicitly
+reproducible regional subset, two-register linkage, an exact lower bound
+on loss from published-label compression, and a later Shokpar trace through
+2026. It does not claim to be the first portfolio analysis.
+
+Creutz (2023), International Journal of Human Rights: rights protection,
+efficiency, and fragmented safeguards. Relevant theoretical precursor;
+the present study operationalizes the policy/forum/evidence distinction.
+
+Gu (2023), RECIEL: inheritance and innovation in AIIB's ESF. Important
+counterweight to assuming innovation or reliance is inherently harmful.
+
+Ransdell (2019), Asian Journal of International Law: institutional
+innovation and cooperation; predates the later complaint trajectory.
+
+Lee and Kim (2025), International Affairs: comparison of the AIIB and
+World Bank's development-finance practices and text. Shared policy
+language does not settle project-specific forum designation.
+
+Mirza (2018), California Law Review: Southern institutional voice and
+local redress are distinct issues. No novelty claimed for this distinction.
+
+Lorenzo (2024), ICLQ; OHCHR (2022), Remedy in Development Finance:
+answerability, responsibility, and remedy are distinct. The paper neither
+discovers nor collapses these concepts.
+
+Skalamera (2025), International Environmental Agreements; Ponedelnik
+(2026), regional just-transition research: frame procedural participation
+within regionally specific distributional and institutional relationships.
+
+Existing Shokpar records and coverage
+EBRD's reports and registry already disclose the referral and process
+events. Accountability Counsel's database and Early Warning System
+already index this project. Russian-language news also reports the
+controversy. The study analyzes existing documentary facts; it does not
+claim first discovery of the complaint or independently verified bird harm.
+
+Scope decisions
+1. A general 'cofinancing creates accountability gaps' paper was rejected
+   as too close to existing reports and legal scholarship.
+2. A national-origin ranking of lenders was rejected: the corpus cannot
+   support it, and sponsor, bank, policy and forum have different roles.
+3. A causal claim that delegation worsens outcomes was rejected: no
+   counterfactual or representative complaint sample is available.
+4. The adopted contribution joins a bounded register reconstruction to
+   specific evidence circulation after a demonstrably working referral.
+
+Practical landscape
+Accountability Counsel's Accountability Toolkit/Console indexes complaints
+and stages. The Early Warning System indexes planned/financed operations
+and related disclosure. Publish What You Fund's DFI Transparency Index
+assesses institutional disclosure. These establish that project discovery,
+accountability tracking, and disclosure quality assurance are existing
+activities; they do not establish a new paying market for this prototype.
+
+Application hypothesis
+A versioned evidence ledger could support community advisers,
+sustainability consultants and lender supervision by retaining the exact
+policy/forum source, identifying changes, distinguishing process closure
+from outcome, and recording requester access to monitoring reports.
+Potential paid work would be maintenance, integration, and quality
+assurance. The underlying source trail should remain open and inspectable.
+
+No customer interviews, procurement commitments, revenue forecast,
+market-size estimate, patent search, or validated commercial benefit is
+claimed. Existing public tools are acknowledged rather than represented
+as absent. Practical utility remains a deployment hypothesis to test.

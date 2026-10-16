@@ -1,0 +1,17 @@
+{
+  "checked_on": "2026-10-16",
+  "extraction_row_observations": 288,
+  "critical_cell_engines": [
+    "PyMuPDF",
+    "Poppler pdftotext"
+  ],
+  "regional_visual_check_records": 26,
+  "audit_tests": 12,
+  "audit_tests_passed": 12,
+  "lookup_oracle": "Exhaustive assignments over observed IAM choices per published policy label",
+  "policy_lookup_minimum": 14,
+  "policy_lookup_minimum_usd_million": "1162.70",
+  "snapshot_match_count": 136,
+  "abstract_whitespace_word_count": 447,
+  "bio_whitespace_word_count": 135
+}

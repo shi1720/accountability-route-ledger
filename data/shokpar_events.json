@@ -1,0 +1,13 @@
+[
+ {"id":"intake","date_low":"2024-05-13","date_high":"2024-05-13","event":"Submission initially received by AIIB mechanism","source":"shokpar_closing_2026","printed_page":"7","kind":"receipt"},
+ {"id":"referral","date_low":"2024-05-29","date_high":"2024-05-29","event":"Forwarded to EBRD IPAM under mutual reliance","source":"shokpar_closing_2026","printed_page":"7","kind":"referral"},
+ {"id":"suspension","date_low":"2024-07-17","date_high":"2024-07-17","event":"Registration suspended to allow management and client engagement","source":"shokpar_closing_2026","printed_page":"7","kind":"suspension"},
+ {"id":"registration","date_low":"2024-10-22","date_high":"2024-10-22","event":"IPAM registration as case 2024/05","source":"shokpar_closing_2026","printed_page":"7","kind":"registration"},
+ {"id":"joint_meeting","date_low":"2025-01-30","date_high":"2025-01-30","event":"Joint meeting; interest in continued engagement","source":"shokpar_closing_2026","printed_page":"7","kind":"engagement"},
+ {"id":"problem_solving","date_low":"2025-02-01","date_high":"2025-02-28","event":"Case proceeded to problem solving","source":"shokpar_closing_2026","printed_page":"7","kind":"problem_solving"},
+ {"id":"reports","date_low":"2026-01-01","date_high":"2026-01-31","event":"Four reports shared with IPAM and Bank Management; client supplied requesters summaries rather than full reports","source":"shokpar_closing_2026","printed_page":"7-8","kind":"evidence_delivery","reports":4,"full_report_recipients":["IPAM","EBRD Management"],"requester_access":"summaries_only"},
+ {"id":"mission","date_low":"2026-02-01","date_high":"2026-02-28","event":"IPAM mission; continuing trust difficulties; requesters considered compliance function","source":"shokpar_closing_2026","printed_page":"8","kind":"engagement"},
+ {"id":"withdrawal","date_low":"2026-04-01","date_high":"2026-04-30","event":"Requesters discontinued problem solving and requested transfer to compliance","source":"shokpar_closing_2026","printed_page":"8","kind":"problem_solving_discontinued"},
+ {"id":"disclosure","date_low":"2026-06-22","date_high":"2026-06-22","event":"Registry publication date for closure report dated April 2026; no agreement reached","source":"shokpar_registry","printed_page":"Case tracker","kind":"publication"},
+ {"id":"cutoff","date_low":"2026-10-16","date_high":"2026-10-16","event":"Registry snapshot: case open at compliance assessment","source":"shokpar_registry","printed_page":"Case tracker","kind":"status_snapshot"}
+]
