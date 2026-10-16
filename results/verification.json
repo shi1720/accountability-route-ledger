@@ -13,5 +13,7 @@
   "policy_lookup_minimum_usd_million": "1162.70",
   "snapshot_match_count": 136,
   "abstract_whitespace_word_count": 447,
-  "bio_whitespace_word_count": 135
+  "bio_whitespace_word_count": 124,
+  "bio_character_count": 922,
+  "abstract_character_count": 3455
 }
