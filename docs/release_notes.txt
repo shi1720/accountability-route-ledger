@@ -1,0 +1,11 @@
+Research manuscript and reproducible artifact, version 1.0.0.
+
+Borrowed Standards, Delegated Review: Complaint Routing and Evidentiary Participation in Central Asia's Infrastructure Transition
+Author: Shivam Gupta
+Evidence cutoff: 16 October 2026.
+
+Includes the 16-page manuscript, four original figures, three tables, 26 references, source-linked register data, event ledger, extraction and analysis code, and twelve passing audit tests.
+
+The CHREN Green Corridors, Contested Ground workshop proposal was submitted on 16 October 2026. Submission is not acceptance or peer-reviewed publication. The Google Form requests an abstract and biography rather than a full-paper upload.
+
+See README.md for reproduction and interpretive limits. Original institutional source materials retain their own rights.
